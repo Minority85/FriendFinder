@@ -1,0 +1,42 @@
+html {
+    background: url(bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 2000px 2000px 0 rgba(193,193,193,0.6);
+    min-height: 100%;
+}
+
+body {
+    background: none;
+}
+
+img{
+    display: block;
+    max-width:300px;
+    max-height:500px;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+
+#hSeries {
+    font-weight: bolder;
+}
+
+#bSeries {
+    font-weight: bold;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    outline: 0;
+    max-height: 100%;
+}
