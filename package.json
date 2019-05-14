@@ -1,0 +1,8 @@
+{
+    "name": "FriendFinder",
+    "description": "a simple way to find a friend",
+    "version": "1.0.0",
+    "engines": {
+      "node": "10.15.3"
+    }
+  }
