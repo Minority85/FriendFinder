@@ -1,8 +1,11 @@
 {
-    "name": "FriendFinder",
-    "description": "a simple way to find a friend",
-    "version": "1.0.0",
-    "engines": {
-      "node": "10.15.3"
-    }
+  "name": "FriendFinder",
+  "description": "a simple way to find a friend",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.15.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
+}
